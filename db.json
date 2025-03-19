@@ -1,0 +1,76 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Visvajeet",
+      "age": "22",
+      "subject": "MERN Stack",
+      "course": "Web Development",
+      "mobile": "8527391502",
+      "email": "visvajeet@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Sinha",
+      "age": "24",
+      "subject": "React.js",
+      "course": "Web Development",
+      "mobile": "8527391545",
+      "email": "sinha@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Swami",
+      "age": 22,
+      "subject": "MongoDB",
+      "course": "Web Development",
+      "mobile": "8527391505",
+      "email": "kumar@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Rohan",
+      "age": 22,
+      "subject": "React.js",
+      "course": "Web Development",
+      "mobile": "8527391508",
+      "email": "rohan@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "Shyam",
+      "age": 22,
+      "subject": "JS",
+      "course": "Web Development",
+      "mobile": "8527391510",
+      "email": "shyam@gmail.com"
+    },
+    {
+      "id": "11",
+      "name": "Suresh",
+      "age": "25",
+      "subject": "Ruby",
+      "course": "Web Development",
+      "mobile": "9874563210",
+      "email": "suresh@gmail.com"
+    },
+    {
+      "id": "12",
+      "name": "Ramesh",
+      "age": "24",
+      "subject": "Java",
+      "course": "Web Development",
+      "mobile": "7894562140",
+      "email": "ramesh@gmail.com"
+    },
+    {
+      "id": "14",
+      "name": "Ayush",
+      "age": "26",
+      "subject": "SpringBoot",
+      "course": "Web Development",
+      "mobile": "8745622188",
+      "email": "ayush@gmail.com"
+    }
+  ]
+}
