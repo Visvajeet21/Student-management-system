@@ -1,8 +1,49 @@
-# React + Vite
+Student Management System (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Overview
 
-Currently, two official plugins are available:
+The Student Management System is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows administrators to manage student records, including adding, updating, and deleting student information. This system is designed for educational institutions to streamline student data management efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+
+🔑 Authentication & Authorization (JWT-based login/signup)
+
+📋 CRUD Operations (Create, Read, Update, Delete students)
+
+🔍 Search & Filter Students
+
+🛠 Role-Based Access Control (RBAC) (Admin, Teacher, Student)
+
+📡 RESTful API Integration
+
+🎨 Responsive UI with React & Tailwind CSS
+
+🔐 Secure Password Handling (bcrypt.js)
+
+📊 Dashboard for Student Analytics
+
+🏗️ Tech Stack
+
+Frontend (React.js)
+
+React with Hooks
+
+React Router for navigation
+
+Axios for API calls
+
+Tailwind CSS for UI styling
+
+Backend (Node.js & Express.js)
+
+Express.js for API routing
+
+MongoDB & Mongoose for database management
+
+JWT for authentication
+
+bcrypt.js for password hashing
+
+Database (MongoDB Atlas)
+
+Cloud-based MongoDB database
