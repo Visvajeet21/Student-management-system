@@ -1,49 +1,51 @@
-Student Management System (MERN Stack)
+### Student Management System (MERN Stack)
 
-📌 Overview
+### Overview
 
 The Student Management System is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows administrators to manage student records, including adding, updating, and deleting student information. This system is designed for educational institutions to streamline student data management efficiently.
 
-🚀 Features
+### Features
 
-🔑 Authentication & Authorization (JWT-based login/signup)
+1. Authentication & Authorization (JWT-based login/signup)
 
-📋 CRUD Operations (Create, Read, Update, Delete students)
+2. CRUD Operations (Create, Read, Update, Delete students)
 
-🔍 Search & Filter Students
+3. Search & Filter Students
 
-🛠 Role-Based Access Control (RBAC) (Admin, Teacher, Student)
+4. Role-Based Access Control (RBAC) (Admin, Teacher, Student)
 
-📡 RESTful API Integration
+5. RESTful API Integration
 
-🎨 Responsive UI with React & Tailwind CSS
+6. Responsive UI with React & Tailwind CSS
 
-🔐 Secure Password Handling (bcrypt.js)
+7. Secure Password Handling (bcrypt.js)
 
-📊 Dashboard for Student Analytics
 
-🏗️ Tech Stack
+### Tech Stack
 
-Frontend (React.js)
+### Frontend (React.js)
 
-React with Hooks
+1. React with Hooks
 
-React Router for navigation
+2. React Router for navigation
 
-Axios for API calls
+3. Axios for API calls
 
-Tailwind CSS for UI styling
+4. Tailwind CSS for UI styling
 
-Backend (Node.js & Express.js)
+### Backend (Node.js & Express.js)
 
-Express.js for API routing
+1. Express.js for API routing
 
-MongoDB & Mongoose for database management
+2. MongoDB & Mongoose for database management
 
-JWT for authentication
+3. JWT for authentication
 
-bcrypt.js for password hashing
+4. bcrypt.js for password hashing
 
-Database (MongoDB Atlas)
+5. Database (MongoDB Compass)
 
-Cloud-based MongoDB database
+### Results
+![image](https://github.com/user-attachments/assets/2a2b2df5-9563-4e51-94dd-e09b5320580f)
+
+
